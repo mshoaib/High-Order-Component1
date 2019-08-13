@@ -1,2 +1,4 @@
 # High-Order-Component1-
-High Order Components  
+
+# For run 
+npm install
